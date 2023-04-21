@@ -1,4 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adrian==============================================================================================================================Data Scientist and Web Developer--------------------------------I'm an undergraduate student of Data Science major in Telkom University, Bandung. I started learn about programming on 3rd year of high school.* 🌍  I'm based in Indonesia* 🖥️  See my portfolio at [Adrian Portfolio Website](http://glazeradr.github.io/)* ✉️  You can contact me at [adrianbadjideh01@gmail.com](mailto:adrianbadjideh01@gmail.com)* 🧠  I'm learning Deep Learning
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adrian
+==============================================================================================================================
+Data Scientist and Web Developer
+--------------------------------
+I'm an undergraduate student of Data Science major in Telkom University, Bandung. I started learn about programming on 3rd year of high school.
+* 🌍  I'm based in Indonesia
+* 🖥️  See my portfolio at [Adrian Portfolio Website](http://glazeradr.github.io/)
+* ✉️  You can contact me at [adrianbadjideh01@gmail.com](mailto:adrianbadjideh01@gmail.com)
+* 🧠  I'm learning Deep Learning
 
 ### Skills
 
