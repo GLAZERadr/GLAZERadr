@@ -6,7 +6,7 @@ I'm an undergraduate student of Data Science major in Telkom University, Bandung
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [Adrian Portfolio Website](http://glazeradr.github.io/)
 * ✉️  You can contact me at [adrianbadjideh01@gmail.com](mailto:adrianbadjideh01@gmail.com)
-* 🧠  I'm learning Deep Learning
+* 🧠  I'm currently learning about Deep Learning
 
 ### Skills
 
