@@ -8,15 +8,11 @@ I'm an undergraduate student of Data Science major in Telkom University, Bandung
 * ✉️  You can contact me at [adrianbadjideh01@gmail.com](mailto:adrianbadjideh01@gmail.com)
 * 🧠  I'm currently learning about Big Data and Artificial Intelligence
 
-### Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+### My Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
-### Skills
+### My Skills
 
 
 <p align="left">
