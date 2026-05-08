@@ -11,7 +11,7 @@ Currently shipping [**ADACareer**](https://ada4career.com) — an AI-powered car
 [![Portfolio](https://img.shields.io/badge/Portfolio-glazeradr.github.io-black?style=flat-square&logo=github)](https://glazeradr.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrian%20Putra-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adrian-putra-pratama-badjideh-8a2492238/)
 [![Instagram](https://img.shields.io/badge/Instagram-@adrian__glazer-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/adrian__glazer)
-[![Email](https://img.shields.io/badge/Email-adrianbadjideh01@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:adrianbadjideh01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-01adrianbadjideh@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:01adrianbadjideh@gmail.com)
 
 </div>
 
@@ -64,8 +64,9 @@ Currently shipping [**ADACareer**](https://ada4career.com) — an AI-powered car
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=glazeradr&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glazeradr&layout=compact&theme=dracula&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=glazeradr&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glazeradr&layout=compact&theme=dracula&hide_border=true&langs_count=8)](https://github.com/glazeradr)
 
 </div>
 
