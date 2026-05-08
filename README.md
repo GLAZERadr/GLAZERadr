@@ -4,7 +4,7 @@
 
 ### Data Scientist · Full-Stack Developer · Builder
 
-Undergraduate in Data Science @ **Telkom University**, Bandung — building things at the intersection of AI, data, and the web.
+Data Science Fresh Graduate @ **Telkom University**, Bandung — building things at the intersection of AI, data, and the web.
 
 Currently shipping [**ADACareer**](https://ada4career.com) — an AI-powered career guidance & job matching platform for Indonesian tech students.
 
