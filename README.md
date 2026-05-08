@@ -20,9 +20,8 @@ Currently shipping [**ADACareer**](https://ada4career.com) — an AI-powered car
 ## 🧭 About
 
 - 🇮🇩 Based in **Indonesia**
-- 🚀 Building **ADACareer** — Next.js · PostgreSQL/Neon · Azure · Fly.io
+- 🚀 Building **ADACareer** and **MINERVA**
 - 🤖 Deep into **AI/ML**: RAG systems, LLM integration, job recommendation with `pgvector`
-- 🧑‍🏫 Mentor at **Google Developer Groups on Campus** @ Telkom University
 - 📈 Side interest: **IDX stock market**, technical analysis, Elliott Wave
 
 ---
