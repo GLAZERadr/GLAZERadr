@@ -66,7 +66,8 @@ Currently shipping [**ADACareer**](https://ada4career.com) — an AI-powered car
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=glazeradr&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glazeradr&layout=compact&theme=dracula&hide_border=true&langs_count=8)](https://github.com/glazeradr)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glazeradr&theme=dracula)](https://github.com/glazeradr)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glazeradr&theme=dracula)](https://github.com/glazeradr)
 
 </div>
 
